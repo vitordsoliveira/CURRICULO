@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Currículo - Vitor Daniel Silva Oliveira</title>
 
-```
+
 <style>
     body {
         font-family: Arial, sans-serif;
@@ -40,12 +40,12 @@
         margin-top: 10px;
     }
 </style>
-```
+
 
 </head>
 <body>
 
-```
+
 <h1>Vitor Daniel Silva Oliveira</h1>
 <p>📍 Vila Curuçá — São Paulo, SP</p>
 <p>📧 <a href="mailto:vitor.dsoliveira1@gmail.com">vitor.dsoliveira1@gmail.com</a></p>
@@ -63,7 +63,6 @@
 
 <div class="section">
     <h2>Experiência Profissional</h2>
-
     <div class="card">
         <h3>GTEL Grupo Técnico de Eletromecânica S.A. — Estagiário de TI (Atual)</h3>
         <ul>
@@ -72,7 +71,6 @@
             <li>Apoio no gerenciamento de estoque de equipamentos</li>
         </ul>
     </div>
-
     <div class="card">
         <h3>GTEL Grupo Técnico de Eletromecânica S.A. — Jovem Aprendiz (Jun/2024 – Mar/2025)</h3>
         <p>Departamento de Finanças</p>
@@ -81,17 +79,14 @@
 
 <div class="section">
     <h2>Formação e Cursos</h2>
-
     <div class="card">
         <strong>Faculdade Impacta Tecnologia</strong> — Análise e Desenvolvimento de Sistemas  
         <br>Cursando (Previsão: Dez/2026)
     </div>
-
     <div class="card">
         <strong>Senac São Miguel</strong> — Técnico em Informática  
         <br>Concluído em Ago/2024
     </div>
-
     <div class="card">
         <strong>Instituto Via de Acesso Ruy Leal</strong> — Assistente de RH  
         <br>Concluído em Jun/2025
@@ -100,7 +95,6 @@
 
 <div class="section">
     <h2>Habilidades Técnicas</h2>
-
     <div class="card">
         <strong>Linguagens:</strong> HTML, CSS, C#, Python, Kotlin, Java, JavaScript  
         <br><strong>Banco de Dados:</strong> MySQL  
@@ -110,12 +104,11 @@
 
 <div class="section">
     <h2>Idiomas</h2>
-
     <div class="card">
         <strong>Inglês:</strong> Intermediário
     </div>
 </div>
-```
+
 
 </body>
 </html>
