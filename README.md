@@ -11,7 +11,6 @@
 <h1>Vitor Daniel Silva Oliveira</h1>
 <p>📍 Vila Curuçá — São Paulo, SP</p>
 <p>📧 <a href="mailto:vitor.dsoliveira1@gmail.com">vitor.dsoliveira1@gmail.com</a></p>
-<p>🔗 <a href="https://github.com/vitordsoliveira" target="_blank">GitHub</a></p>
 <p>🔗 <a href="https://www.linkedin.com/in/vitor-daniel-30a7a82ab/" target="_blank">LinkedIn</a></p>
 
 <div class="section">
