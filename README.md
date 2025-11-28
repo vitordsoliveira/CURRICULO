@@ -5,43 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Currículo - Vitor Daniel Silva Oliveira</title>
-
-
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 40px;
-        background-color: #0d1117;
-        color: #e6edf3;
-        line-height: 1.6;
-    }
-    h1, h2, h3 {
-        color: #58a6ff;
-    }
-    a {
-        color: #79c0ff;
-        text-decoration: none;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-    .section {
-        margin-bottom: 40px;
-    }
-    .card {
-        background-color: #161b22;
-        padding: 20px;
-        border-radius: 10px;
-        border: 1px solid #30363d;
-        margin-bottom: 20px;
-    }
-    ul {
-        margin-top: 10px;
-    }
-</style>
-
-
 </head>
 <body>
 
